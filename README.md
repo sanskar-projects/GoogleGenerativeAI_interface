@@ -1,1 +1,1 @@
-# sanskar-projects.github.io
+https://sanskar-projects.github.io/GoogleGenerativeAI_interface/
